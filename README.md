@@ -17,3 +17,10 @@ With all the noise it becomes impractical for candidates to apply directly; thei
 ###Problem 5 - Sales-driven
 The recruitment industry is so lucrative it attracts people with primarily sales skills (rather than people with technical recruitment skills). The industry is driven by sales targets, cold calls, grabbing all the CVs, and success tends to go to agents who favour quantity over quality.
 
+###Problem 6 - Discriminatory recruiters
+Sexism, racism and transphobia can be just as prevalent amongst recruiters as it is in the rest of the tech industry. Women applicants, POC and members of the LGBTQ community are frequently treated differently, including: 
+- not being put forward for roles
+- being only put forward for more junior roles
+- harassment and offensive comments from recruiters
+
+This clearly has a huge impact on the careers of a lot of marginalised groups.
