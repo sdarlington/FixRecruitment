@@ -11,6 +11,6 @@ Programmers are over-reliant on recruiters, because it is inefficient to find an
 Employers are over-reliant on recruiters, because they lack time and reach (audience)
 ###Problem 4 - Too much crap
 Employers who do advertise directly face a barrage of crap from unqualified applicants and aggressive agencies alike. Programmers face a similar barrage of crap when they declare their availability.
-###Problem 5 - Sales people
+###Problem 5 - Sales-driven
 The recruitment industry is so lucrative it attracts people with primarily sales skills (rather than people with technical recruitment skills). The industry is driven by sales targets, cold calls, grabbing all the CVs and outcomes that favour quantity (of CVs presented) over quality (of CVs presented).
 
