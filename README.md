@@ -8,7 +8,7 @@ Broadly speaking, recruiters are a noisy waste of time and money - they add very
 ###Problem 2 - Programmers
 Programmers are over-reliant on recruiters, because it is inefficient to find and contact employers directly
 ###Problem 3 - Employers
-Employers are over-reliant on recruiters, because they lack time and reach (audience)
+Employers are over-reliant on recruiters, because they lack time and reach (audience). Possibly for the same reason, employers often don't spend enough time writing a good job specification. Both too little information and long wishlists are common. The lack of useful detail likely results in too many applications, which leads us to...
 ###Problem 4 - Too much crap
 Employers who do advertise directly face a barrage of crap from unqualified applicants and aggressive agencies alike. Programmers face a similar barrage of crap when they declare their availability.
 
