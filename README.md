@@ -4,7 +4,7 @@ Ideas to fix recruitment, starting with a summary of all that's wrong.
 ## Summary of what's wrong
 
 ###Problem 1 - Recruiters
-Recruiters are mostly a noisy waste of time and money - they add very little value to the supply chain
+Broadly speaking, recruiters are mostly a noisy waste of time and money - they add very little value to the supply chain
 ###Problem 2 - Programmers
 Programmers are over-reliant on recruiters, because it is inefficient to find and contact employers directly
 ###Problem 3 - Employers
