@@ -24,3 +24,21 @@ Sexism, racism and transphobia can be just as prevalent amongst recruiters as it
 - harassment and offensive comments from recruiters
 
 This clearly has a huge impact on the careers of a lot of marginalised groups.
+
+
+## Ideas for fixing
+This is a work in progress.
+###Idea 1
+Publish a shit-list of agencies we avoid at all costs.
+
+General consensus is that this is a bad idea, although tempting. We all have shit-lists, but publishing them would attract the wrong kind of attention. We also want to retain a positive rather than negative attitude toward fixing what's wrong.
+###Idea 2
+Publish a simple list of agencies we (as employers and people involved in recruitment) prefer to work with.
+
+This raises a lot of questions about how it would become an effective tool rather than "just another wasteland".
+
+I for one (Ed) would be prepared to contribute cash to this kind of list, to help spread awareness.
+###Idea 3
+Create a site like Rated People or Check A Trade.
+
+
